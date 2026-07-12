@@ -1,14 +1,23 @@
-Pokemon Red
-Pokemon Blue
-Pokemon Yellow
-Pokemon Silver
-Pokemon Gold
-Pokemon Crystal
-Pokemon Ruby
-Pokemon Sapphire
-Pokemon Emerald
-Pokemon XD Gale of Darkness
-Pokemon Colosseum
-Pokemon Legends Arceus
-Pokemon Let's Go Pikachu
-Pokemon Let's Go Eevee
+GameBoy
+- Pokemon Red
+- Pokemon Blue
+- Pokemon Yellow
+
+GameBoy Color
+- Pokemon Silver
+- Pokemon Gold
+- Pokemon Crystal
+
+GameBoy Advance
+- Pokemon Ruby
+- Pokemon Sapphire
+- Pokemon Emerald
+
+Nintendo GameCube
+- Pokemon XD Gale of Darkness
+- Pokemon Colosseum
+
+Nintendo Switch
+- Pokemon Legends Arceus
+- Pokemon Let's Go Pikachu
+- Pokemon Let's Go Eevee
