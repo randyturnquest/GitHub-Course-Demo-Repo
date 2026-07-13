@@ -3,28 +3,28 @@ Pokemon Titles
 ===============
 
 GameBoy
-- Pokemon Red
-- Pokemon Blue
-- Pokemon Yellow
+- Pokemon Red (1996)
+- Pokemon Blue (1998)
+- Pokemon Yellow (1999)
 
 GameBoy Color
-- Pokemon Silver
-- Pokemon Gold
-- Pokemon Crystal
+- Pokemon Silver (2000)
+- Pokemon Gold (2000)
+- Pokemon Crystal (2001)
 
 GameBoy Advance
-- Pokemon Ruby
-- Pokemon Sapphire
-- Pokemon Emerald
+- Pokemon Ruby (2002)
+- Pokemon Sapphire (2002)
+- Pokemon Emerald (2005)
 
 Nintendo GameCube
-- Pokemon XD Gale of Darkness
-- Pokemon Colosseumgit
+- Pokemon Colosseum (2004)
+- Pokemon XD Gale of Darkness (2005)
 
 Nintendo Switch
-- Pokemon Legends Arceus
-- Pokemon Let's Go Pikachu
-- Pokemon Let's Go Eevee
+- Pokemon Let's Go, Pikachu (2018)
+- Pokemon Let's Go, Eevee (2018)
+- Pokemon Legends Arceus (2022)
 
 ====================
 From Software Titles 
