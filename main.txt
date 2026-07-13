@@ -1,4 +1,7 @@
-Top Games 
+==================
+Top Favorite Games
+==================
+
 - Dark Souls I
 - Dark Souls III
 - Elden Ring
@@ -10,3 +13,66 @@ Top Games
 - Uncharted 2: Among Thieves
 - Uncharted 3: Drakes Deception
 - Uncharted 4: A Thief's End
+
+===============
+Pokemon Titles
+===============
+
+GameBoy
+- Pokemon Red (1996)
+- Pokemon Blue (1998)
+- Pokemon Yellow (1999)
+
+GameBoy Color
+- Pokemon Silver (2000)
+- Pokemon Gold (2000)
+- Pokemon Crystal (2001)
+
+GameBoy Advance
+- Pokemon Ruby (2002)
+- Pokemon Sapphire (2002)
+- Pokemon Emerald (2005)
+
+Nintendo GameCube
+- Pokemon Colosseum (2004)
+- Pokemon XD Gale of Darkness (2005)
+
+Nintendo Switch
+- Pokemon Let's Go, Pikachu (2018)
+- Pokemon Let's Go, Eevee (2018)
+- Pokemon Legends Arceus (2022)
+
+====================
+From Software Titles 
+====================
+
+King's Field 
+- King's Field (1994)
+- King's Field II (1995)
+- King's Field III (1996)
+- King's Field IV: The Ancient City (2001)
+
+Shadow Tower 
+- Shadow Tower (1998)
+- Shaodw Tower Abyss (2003)
+
+Echo Night
+- Echo Night (1998)
+- Echo Night 2: The Lord of Nightmares (1999)
+- Echo Night: Beyond (2004)
+
+Armored Core 
+- Armored Core (1997)
+- Armored Core: Project Phantasma (1997)
+- Armored Core: Master of Arena (1999)
+- Armored Core 2 (2000)
+- Armored Core 2: Another Age (2001)
+
+Soulsborne
+- Demon's Souls (2009)
+- Dark Souls (2011)
+- Dark Souls II (2014)
+- Dark SOuls III (2016)
+- Sekiro: Shadows Die Twice (2019)
+- Elden Ring (2022)
+- Elden Ring: Nightreign (2025)
