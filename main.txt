@@ -1,3 +1,35 @@
+===============
+Pokemon Titles
+===============
+
+GameBoy
+- Pokemon Red (1996)
+- Pokemon Blue (1998)
+- Pokemon Yellow (1999)
+
+GameBoy Color
+- Pokemon Silver (2000)
+- Pokemon Gold (2000)
+- Pokemon Crystal (2001)
+
+GameBoy Advance
+- Pokemon Ruby (2002)
+- Pokemon Sapphire (2002)
+- Pokemon Emerald (2005)
+
+Nintendo GameCube
+- Pokemon Colosseum (2004)
+- Pokemon XD Gale of Darkness (2005)
+
+Nintendo Switch
+- Pokemon Let's Go, Pikachu (2018)
+- Pokemon Let's Go, Eevee (2018)
+- Pokemon Legends Arceus (2022)
+
+====================
+From Software Titles 
+====================
+
 King's Field 
 - King's Field (1994)
 - King's Field II (1995)
